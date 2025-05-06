@@ -59,7 +59,7 @@ Dữ liệu nằm trong bảng `enhanced_anxiety_dataset_copy_nodup`, bao gồm 
 - **MySQL**
 - **Truy vấn SQL**
 - **Phân tích mô tả & tổng hợp**
-- (Tuỳ chọn nâng cao: Python, Tableau, Power BI)
+- (Tuỳ chọn nâng cao: Python, Tableau)
 
 # Các phân tích chính
 - Tính tuổi trung bình, nhỏ nhất và lớn nhất
