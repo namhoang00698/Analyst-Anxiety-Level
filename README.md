@@ -1,5 +1,5 @@
 # English
-# 🧠 Social Anxiety Lifestyle Analysis
+# Social Anxiety Lifestyle Analysis
 
 This project explores how various lifestyle factors affect self-reported anxiety levels using structured SQL queries on a cleaned dataset. The analysis focuses on trends between anxiety levels and behaviors such as sleep, caffeine intake, alcohol consumption, exercise, smoking, and family mental health history.
 
